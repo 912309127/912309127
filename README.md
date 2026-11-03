@@ -1,6 +1,6 @@
 # Hi, I'm Christian Sam L. Bolo 👋
 ### BSIT Student – System Development | PHINMA Cagayan de Oro College
-* Academic Top 1 student specializing in web development, system architecture, database design, and software troubleshooting.
+Academic Top 1 student specializing in web development, system architecture, database design, and software troubleshooting.
 
 ---
 
