@@ -4,27 +4,32 @@ Academic Top 1 student specializing in web development, system architecture, dat
 
 ---
 
-### [Resume | Curriculum Vitae](https://drive.google.com/file/d/1xgpDe7pKzhP8fZg6kAhmpp8bCw7mhYOm/view?usp=drivesdk)
-  * Check if interested
+### 📄 [Resume | Curriculum Vitae](https://drive.google.com/file/d/1xgpDe7pKzhP8fZg6kAhmpp8bCw7mhYOm/view?usp=drivesdk)
 
 ---
 
-### 🚀 Featured Major Project
+## 🚀 Featured Projects
 
-* **[Apexlogix – Store Inventory, POS & AR System](https://github.com/912309127/Apexlogix)**
-  * A multi-branch inventory control, point-of-sale checkout, supply chain, and customer credit ledger platform built with PHP PDO, MySQL, and Vanilla JS.
+### 1. [Apexlogix – Store Inventory, POS & AR System](https://github.com/912309127/Apexlogix)
+* **Role:** Lead System Architect / Developer
+* **Description:** A multi-branch inventory control, point-of-sale checkout, supply chain, and customer credit ledger platform built with PHP PDO, MySQL, and Vanilla JS.
+
+### 2. [Library Management System](https://github.com/912309127/Library-Management-System)
+* **Role:** Leader | Project Manager | Primary Developer
+* **Description:** A desktop-based library management platform designed to automate book inventory, borrow/return transactions, barcode validation, and safe record archiving.
+* **Technologies Used:** Java (Swing / NetBeans GUI), MySQL, Python (SQLite), SQL Queries & Normalization
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 * **Languages:** PHP (PDO), JavaScript (ES6 Modules), HTML5, CSS3, Java, Python
-* **Databases:** MySQL / MariaDB, Database Design & Normalization, Firebase
-* **Tools & Frameworks:** Git, GitHub, RESTful APIs, OOP, UI/UX Design, Technical Documentation
+* **Databases:** MySQL / MariaDB, SQLite, Database Design & Normalization, Firebase
+* **Tools & Frameworks:** Git, GitHub, RESTful APIs, OOP, NetBeans IDE, Visual Studio Code, UI/UX Design, Technical Documentation
 
 ---
 
-### 🏆 Key Achievements & Certifications
+## 🏆 Key Achievements & Certifications
 
 * **Top 1, BSIT Batch** – PHINMA Cagayan de Oro College (1st - 2nd Year)
 * **EF SET English Certificate** – C1 Advanced Level
