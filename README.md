@@ -13,6 +13,8 @@ Academic Top 1 student specializing in web development, system architecture, dat
 ### 1. [Apexlogix – Store Inventory, POS & AR System](https://github.com/912309127/Apexlogix)
 * **Role:** Lead System Architect / Developer
 * **Description:** A multi-branch inventory control, point-of-sale checkout, supply chain, and customer credit ledger platform built with PHP PDO, MySQL, and Vanilla JS.
+* **Technologies Used:** HTML, JavaScript, PHP, MySQL, CSS
+
 
 ### 2. [Library Management System](https://github.com/912309127/Library-Management-System)
 * **Role:** Leader | Project Manager | Primary Developer
