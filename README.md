@@ -15,19 +15,23 @@ Academic Top 1 student specializing in web development, system architecture, dat
 * **Description:** A multi-branch inventory control, point-of-sale checkout, supply chain, and customer credit ledger platform built with PHP PDO, MySQL, and Vanilla JS.
 * **Technologies Used:** HTML, JavaScript, PHP, MySQL, CSS
 
-
 ### 2. [Library Management System](https://github.com/912309127/Library-Management-System)
 * **Role:** Leader | Project Manager | Primary Developer
 * **Description:** A desktop-based library management platform designed to automate book inventory, borrow/return transactions, barcode validation, and safe record archiving.
 * **Technologies Used:** Java (Swing / NetBeans GUI), MySQL, Python (SQLite), SQL Queries & Normalization
 
+### 3. [Bakas & Grill – Real-Time POS & Recipe Inventory System](https://github.com/912309127/Bakas-and-Grill)
+* **Role:** Project Manager / Lead Developer
+* **Description:** A cross-platform real-time POS and recipe-based inventory management system featuring automated ingredient deduction, dynamic stock locking, and electronic kitchen restock requests.
+* **Technologies Used:** Flutter (Dart), Firebase (Cloud Firestore & Auth), JavaScript, HTML5, CSS3
+
 ---
 
 ## 🛠️ Technical Skills
 
-* **Languages:** PHP (PDO), JavaScript (ES6 Modules), HTML5, CSS3, Java, Python
-* **Databases:** MySQL / MariaDB, SQLite, Database Design & Normalization, Firebase
-* **Tools & Frameworks:** Git, GitHub, RESTful APIs, OOP, NetBeans IDE, Visual Studio Code, UI/UX Design, Technical Documentation
+* **Languages:** PHP (PDO), JavaScript (ES6 Modules), HTML5, CSS3, Java, Python, Dart
+* **Databases:** MySQL / MariaDB, SQLite, Firebase (Cloud Firestore), Database Design & Normalization
+* **Tools & Frameworks:** Git, GitHub, RESTful APIs, OOP, Flutter, NetBeans IDE, Visual Studio Code, UI/UX Design, Technical Documentation
 
 ---
 
