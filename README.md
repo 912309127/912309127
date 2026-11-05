@@ -25,6 +25,11 @@ Academic Top 1 student specializing in web development, system architecture, dat
 * **Description:** A cross-platform real-time POS and recipe-based inventory management system featuring automated ingredient deduction, dynamic stock locking, and electronic kitchen restock requests.
 * **Technologies Used:** Flutter (Dart), Firebase (Cloud Firestore & Auth), JavaScript, HTML5, CSS3
 
+### 4. [Python CLI Library Management System](https://github.com/912309127/Python-CLI-LMS)
+* **Role:** Leader | Lead Developer
+* **Description:** A lightweight terminal-based library management application built as a 1st-year academic project, featuring full inventory CRUD operations, timestamped borrow/return tracking, and multi-field search routines.
+* **Technologies Used:** Python 3, CLI, `datetime` module
+
 ---
 
 ## 🛠️ Technical Skills
@@ -40,3 +45,4 @@ Academic Top 1 student specializing in web development, system architecture, dat
 * **Top 1, BSIT Batch** – PHINMA Cagayan de Oro College (1st - 2nd Year)
 * **EF SET English Certificate** – C1 Advanced Level
 * **Top Student Awardee** – ICI Computer Engineering / CDO City Scholar Grantee
+
